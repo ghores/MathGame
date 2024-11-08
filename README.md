@@ -1,7 +1,7 @@
 # MathGame App with java **xml**
 
 
-the technologies used in this project consist of:
+The technologies used in this project consist of:
 
 1.java
 
