@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Math Games</string>
+    <string name="math_games_logo">Math Games Logo</string>
+    <string name="play_button">Play Button</string>
+    <string name="play">Play</string>
+    <string name="load_speaker_image">Load Speaker Image</string>
+    <string name="game_over_imageview">Game Over ImageView</string>
+    <string name="restart_imagebutton">Restart ImageButton</string>
+    <string name="exit_imagebutton">Exit ImageButton</string>
+    <string name="high_score_imageview">High Score ImageView</string>
+</resources>
