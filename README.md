@@ -1,11 +1,11 @@
-# MathGame App with java **xml**
+# MathGame App with java
 
 
 The technologies used in this project consist of:
 
-1.java
+1.Java
 
-2.xml
+2.Xml
 
 # Screenshot
 
